@@ -1,6 +1,6 @@
 {
-  "version": "2.0",
-  "description": "Embedded OAU-style practice bank; online bank can be merged when available.",
+  "version": "3.0",
+  "description": "Expanded OAU-style practice bank with fresh randomized questions.",
   "questions": [
     {
       "id": "eng1",
@@ -559,6 +559,566 @@
         "loss of electrons",
         "gain of neutrons",
         "loss of protons"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fresh1",
+      "subject": "English",
+      "topic": "Vocabulary",
+      "sourceYear": "OAU-style practice",
+      "question": "Choose the word nearest in meaning to 'candid'.",
+      "options": [
+        "Secretive",
+        "Frank",
+        "Rude",
+        "Timid"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fresh2",
+      "subject": "English",
+      "topic": "Vocabulary",
+      "sourceYear": "OAU-style practice",
+      "question": "'Benevolent' most nearly means",
+      "options": [
+        "Kind",
+        "Violent",
+        "Selfish",
+        "Uncertain"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fresh3",
+      "subject": "English",
+      "topic": "Antonyms",
+      "sourceYear": "OAU-style practice",
+      "question": "The opposite of 'expand' is",
+      "options": [
+        "Increase",
+        "Contract",
+        "Extend",
+        "Enlarge"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fresh4",
+      "subject": "English",
+      "topic": "Grammar",
+      "sourceYear": "OAU-style practice",
+      "question": "The man, together with his sons, ___ arriving.",
+      "options": [
+        "are",
+        "were",
+        "is",
+        "have"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fresh5",
+      "subject": "English",
+      "topic": "Prepositions",
+      "sourceYear": "OAU-style practice",
+      "question": "She is good ___ solving difficult problems.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "for"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fresh6",
+      "subject": "English",
+      "topic": "Word Class",
+      "sourceYear": "OAU-style practice",
+      "question": "In 'She spoke softly', 'softly' is a",
+      "options": [
+        "noun",
+        "adjective",
+        "adverb",
+        "preposition"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fresh7",
+      "subject": "English",
+      "topic": "Vocabulary",
+      "sourceYear": "OAU-style practice",
+      "question": "A 'versatile' person is one who is",
+      "options": [
+        "limited in ability",
+        "able to do many things",
+        "always angry",
+        "timid"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fresh8",
+      "subject": "English",
+      "topic": "Idioms",
+      "sourceYear": "OAU-style practice",
+      "question": "To 'cut corners' means to",
+      "options": [
+        "take shortcuts",
+        "cut paper",
+        "work slowly",
+        "celebrate"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fresh9",
+      "subject": "English",
+      "topic": "Figures of Speech",
+      "sourceYear": "OAU-style practice",
+      "question": "'The stars danced in the sky' contains",
+      "options": [
+        "simile",
+        "personification",
+        "pun",
+        "paradox"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fresh10",
+      "subject": "English",
+      "topic": "Grammar",
+      "sourceYear": "OAU-style practice",
+      "question": "The players ___ practising when it started raining.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "has"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fresh11",
+      "subject": "Mathematics",
+      "topic": "Algebra",
+      "sourceYear": "OAU-style practice",
+      "question": "If 3x - 7 = 11, find x.",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "9"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fresh12",
+      "subject": "Mathematics",
+      "topic": "Indices",
+      "sourceYear": "OAU-style practice",
+      "question": "Evaluate 2³ × 2⁴.",
+      "options": [
+        "32",
+        "64",
+        "128",
+        "256"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fresh13",
+      "subject": "Mathematics",
+      "topic": "Logarithms",
+      "sourceYear": "OAU-style practice",
+      "question": "If log₁₀x = 2, x is",
+      "options": [
+        "20",
+        "100",
+        "200",
+        "1000"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fresh14",
+      "subject": "Mathematics",
+      "topic": "Surds",
+      "sourceYear": "OAU-style practice",
+      "question": "Simplify √50.",
+      "options": [
+        "5√2",
+        "10√2",
+        "25√2",
+        "2√5"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fresh15",
+      "subject": "Mathematics",
+      "topic": "Quadratic",
+      "sourceYear": "OAU-style practice",
+      "question": "The roots of x² - 5x + 6 = 0 are",
+      "options": [
+        "1,6",
+        "2,3",
+        "-2,-3",
+        "-1,-6"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fresh16",
+      "subject": "Mathematics",
+      "topic": "Sequence",
+      "sourceYear": "OAU-style practice",
+      "question": "The next term in 3,7,11,15 is",
+      "options": [
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fresh17",
+      "subject": "Mathematics",
+      "topic": "Probability",
+      "sourceYear": "OAU-style practice",
+      "question": "A fair die is thrown. P(even) is",
+      "options": [
+        "1/6",
+        "1/3",
+        "1/2",
+        "2/3"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fresh18",
+      "subject": "Mathematics",
+      "topic": "Mensuration",
+      "sourceYear": "OAU-style practice",
+      "question": "Area of a 12 cm by 5 cm rectangle is",
+      "options": [
+        "17",
+        "34",
+        "60",
+        "120"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fresh19",
+      "subject": "Mathematics",
+      "topic": "Trigonometry",
+      "sourceYear": "OAU-style practice",
+      "question": "sin 30° equals",
+      "options": [
+        "0",
+        "1/2",
+        "√2/2",
+        "1"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fresh20",
+      "subject": "Mathematics",
+      "topic": "Calculus",
+      "sourceYear": "OAU-style practice",
+      "question": "Derivative of x³ is",
+      "options": [
+        "x²",
+        "2x²",
+        "3x²",
+        "3x"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fresh21",
+      "subject": "Physics",
+      "topic": "Kinematics",
+      "sourceYear": "OAU-style practice",
+      "question": "A body starts from rest, a=2 m/s² for 10 s. Distance?",
+      "options": [
+        "20 m",
+        "50 m",
+        "100 m",
+        "200 m"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fresh22",
+      "subject": "Physics",
+      "topic": "Forces",
+      "sourceYear": "OAU-style practice",
+      "question": "Force on a 5 kg mass accelerating at 3 m/s² is",
+      "options": [
+        "8 N",
+        "15 N",
+        "20 N",
+        "25 N"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fresh23",
+      "subject": "Physics",
+      "topic": "Momentum",
+      "sourceYear": "OAU-style practice",
+      "question": "Momentum of a 2 kg body moving at 6 m/s is",
+      "options": [
+        "3",
+        "8",
+        "12",
+        "18"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fresh24",
+      "subject": "Physics",
+      "topic": "Work",
+      "sourceYear": "OAU-style practice",
+      "question": "A 20 N force moves an object 5 m in its direction. Work?",
+      "options": [
+        "4 J",
+        "25 J",
+        "100 J",
+        "200 J"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fresh25",
+      "subject": "Physics",
+      "topic": "Energy",
+      "sourceYear": "OAU-style practice",
+      "question": "Kinetic energy of a 2 kg body moving at 4 m/s is",
+      "options": [
+        "8 J",
+        "12 J",
+        "16 J",
+        "32 J"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fresh26",
+      "subject": "Physics",
+      "topic": "Pressure",
+      "sourceYear": "OAU-style practice",
+      "question": "Pressure from 100 N acting on 2 m² is",
+      "options": [
+        "20 Pa",
+        "50 Pa",
+        "100 Pa",
+        "200 Pa"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fresh27",
+      "subject": "Physics",
+      "topic": "Density",
+      "sourceYear": "OAU-style practice",
+      "question": "600 kg occupies 3 m³. Density?",
+      "options": [
+        "100",
+        "200",
+        "300",
+        "1800"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fresh28",
+      "subject": "Physics",
+      "topic": "Waves",
+      "sourceYear": "OAU-style practice",
+      "question": "A wave has v=300 m/s and f=100 Hz. Wavelength?",
+      "options": [
+        "0.3 m",
+        "3 m",
+        "30 m",
+        "300 m"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fresh29",
+      "subject": "Physics",
+      "topic": "Electricity",
+      "sourceYear": "OAU-style practice",
+      "question": "Two 4 Ω resistors in series have resistance",
+      "options": [
+        "2 Ω",
+        "4 Ω",
+        "8 Ω",
+        "16 Ω"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fresh30",
+      "subject": "Physics",
+      "topic": "Optics",
+      "sourceYear": "OAU-style practice",
+      "question": "The unit of lens power is",
+      "options": [
+        "tesla",
+        "dioptre",
+        "pascal",
+        "ohm"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fresh31",
+      "subject": "Chemistry",
+      "topic": "Atomic Structure",
+      "sourceYear": "OAU-style practice",
+      "question": "The number of protons in an atom is its",
+      "options": [
+        "mass number",
+        "atomic number",
+        "neutron number",
+        "nucleon number"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fresh32",
+      "subject": "Chemistry",
+      "topic": "Atomic Structure",
+      "sourceYear": "OAU-style practice",
+      "question": "Isotopes have the same",
+      "options": [
+        "mass number",
+        "neutron number",
+        "atomic number",
+        "physical state"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fresh33",
+      "subject": "Chemistry",
+      "topic": "Bonding",
+      "sourceYear": "OAU-style practice",
+      "question": "A bond formed by transfer of electrons is",
+      "options": [
+        "covalent",
+        "ionic",
+        "metallic",
+        "hydrogen"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fresh34",
+      "subject": "Chemistry",
+      "topic": "Acids",
+      "sourceYear": "OAU-style practice",
+      "question": "A solution of pH 3 is",
+      "options": [
+        "acidic",
+        "neutral",
+        "alkaline",
+        "amphoteric"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "fresh35",
+      "subject": "Chemistry",
+      "topic": "Acids",
+      "sourceYear": "OAU-style practice",
+      "question": "Acid + carbonate produces",
+      "options": [
+        "oxygen",
+        "hydrogen",
+        "carbon dioxide",
+        "nitrogen"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "fresh36",
+      "subject": "Chemistry",
+      "topic": "Stoichiometry",
+      "sourceYear": "OAU-style practice",
+      "question": "Molar mass of H₂O is",
+      "options": [
+        "16",
+        "18",
+        "20",
+        "22"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fresh37",
+      "subject": "Chemistry",
+      "topic": "Redox",
+      "sourceYear": "OAU-style practice",
+      "question": "Oxidation is",
+      "options": [
+        "gain of electrons",
+        "loss of electrons",
+        "gain of neutrons",
+        "loss of protons"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fresh38",
+      "subject": "Chemistry",
+      "topic": "Organic",
+      "sourceYear": "OAU-style practice",
+      "question": "Functional group of alcohols is",
+      "options": [
+        "-COOH",
+        "-OH",
+        "-CHO",
+        "-CO-"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fresh39",
+      "subject": "Chemistry",
+      "topic": "Organic",
+      "sourceYear": "OAU-style practice",
+      "question": "General formula of alkanes is",
+      "options": [
+        "CnH2n",
+        "CnH2n+2",
+        "CnH2n-2",
+        "CnHn"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "fresh40",
+      "subject": "Chemistry",
+      "topic": "Separation",
+      "sourceYear": "OAU-style practice",
+      "question": "Distillation separates liquids mainly by differences in",
+      "options": [
+        "colour",
+        "boiling points",
+        "density only",
+        "mass number"
       ],
       "answer": 1
     }
